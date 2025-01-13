@@ -1,4 +1,4 @@
-# SO_LONG
+![cover](assets/cover-so_long.png)
 ## so_long é um projeto da Escola 42 que envolve a criação de um jogo 2D simples. O objetivo é desenvolver habilidades em programação C, manipulação de gráficos e lógica de jogos. É utilizada a biblioteca MinilibX, fornecida pela 42, para renderizar gráficos e interagir com o jogador. O jogo consiste em controlar um personagem, coletar itens e alcançar a saída de um mapa.
 
 ### Data de início:
