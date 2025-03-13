@@ -66,6 +66,7 @@ clean:
 
 fclean: clean
 			@$(RM) $(NAME)
+			@$(RM) build/
 			@make fclean -C $(LIBFT_DIR)
 			@echo -e "$(RED)all execution completed!$(DEFAULT)"
 
